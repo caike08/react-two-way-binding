@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 12px;
+}
+
+.separator { 
+  border-bottom: 1px solid;
+  width: 100%;
+  margin: 12px 0;
+}
+
+.logo {
+  width: 64px;
+  height: 64px;
+  margin: 6px 0;
+}
